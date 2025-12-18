@@ -1,3 +1,9 @@
+// npm create vite@latest client -- --template react
+// cd client
+// npm install
+// npm install axios
+
+
 import { useState } from 'react';
 import axios from 'axios';
 
