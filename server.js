@@ -1,3 +1,7 @@
+// in root enter
+// npm init -y
+// npm install express cors bcryptjs jsonwebtoken
+
 const express = require('express');
 const cors = require('cors');
 const bcrypt = require('bcryptjs'); // For hashing
